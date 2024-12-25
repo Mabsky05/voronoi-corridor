@@ -12,6 +12,9 @@ View >> remote control panel to view inputs.
 
 ## Log
 
+### 25/12/2024
+Progress with base algo.
+
 ### 11/12/2024
 First upload.
 
